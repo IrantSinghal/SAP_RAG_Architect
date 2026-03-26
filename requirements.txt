@@ -1,0 +1,8 @@
+﻿fastapi
+uvicorn
+langchain
+langchain-groq
+langchain-huggingface
+sentence-transformers
+chromadb
+python-dotenv
