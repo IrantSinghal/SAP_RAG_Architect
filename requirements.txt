@@ -2,8 +2,7 @@ fastapi
 uvicorn
 langchain
 langchain-groq
-langchain-huggingface
-sentence-transformers
+fastembed
 chromadb
 python-dotenv
 pypdf
